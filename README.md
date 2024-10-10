@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![My Leetcode Stats](https://leetcode-badge-sage.vercel.app/badge/Thatoneuke?theme={light|dark|neutral})
+<p align="center">
+    <img src="https://leetcard.jacoblin.cool/Thatoneuke?theme=dark&font=Nanum%20Gothic&ext=heatmap" alt="LeetCode Stats" />
+</p>
